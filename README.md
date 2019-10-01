@@ -1,2 +1,2 @@
 # OOPsLAb
-lab exercises of object oriented programming in c++
+question based on the concept of OOPs in C++. 
